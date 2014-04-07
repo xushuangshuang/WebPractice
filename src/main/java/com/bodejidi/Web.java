@@ -27,10 +27,10 @@ public class Web extends HttpServlet
 
                  out.println("<html>");
                  out.println("  <head>");
-                 out.println("    <title>Login Success</title>");
+                 out.println("    <title>register Success</title>");
                  out.println("  </head>");
                  out.println("  <body>");
-                 out.println("    <h1>Welcome Admin!</h1>");
+                 out.println("    <h1>恭喜您，注册成功</h1>");
                  out.println("  </body>");
                  out.println("</html>");
 	}
