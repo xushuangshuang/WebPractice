@@ -9,7 +9,7 @@ public class Web extends HttpServlet
 {
 	public void doGet(HttpServletRequest req, HttpServletResponse resp)
 	{
-		
+			
 	}
 	public void doPost(HttpServletRequest req, HttpServletResponse resp) throws IOException
 	{
