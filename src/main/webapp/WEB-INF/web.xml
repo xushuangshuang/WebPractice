@@ -15,7 +15,7 @@
 
 <servlet>
         <servlet-name>helloWorld</servlet-name>
-        <servlet-class>com.bodejidi</servlet-class>
+	<servlet-class>com.bodejidi.Web</servlet-class>
 </servlet>
 
 <servlet-mapping>
